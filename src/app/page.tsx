@@ -3,7 +3,7 @@ import Banner from "@/components/HomePage/Banner"
 
 const page = () => {
   return (
-    <div className='py-12'>
+    <div className='py-12 px-6'>
       <Banner></Banner>
     </div>
   );
